@@ -28,7 +28,7 @@ The review downloads include a 259-row page decision map, a 623-row parameter mi
 
 ## GitHub Pages deployment and branding
 
-The GitHub Actions workflow builds and verifies the complete static site, then deploys it to GitHub Pages on each push to main. Enable Pages with GitHub Actions as the build source. The workflow obtains the repository base path and canonical URL from configure-pages, so nested routes, search, downloads, assets and canonical links work below the repository subdirectory.
+The live site publishes from the gh-pages branch with GitHub Pages. The main branch contains editable source. After editing, build with the environment below, run verification, then publish the contents of out/ to gh-pages with a .nojekyll file. GitHub automatically redeploys that branch. A GitHub Actions workflow example is included in docs/github-pages-workflow.yml.example for future setup with credentials that allow workflow updates.
 
 For a manual local build, set NEXT_PUBLIC_BASE_PATH=/easywebinar-product-docs and NEXT_PUBLIC_SITE_URL=https://krishna-kaanth.github.io/easywebinar-product-docs before running npm run build and python3 scripts/verify-export.py.
 
