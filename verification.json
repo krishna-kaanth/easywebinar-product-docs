@@ -1,0 +1,24 @@
+{
+  "result": "passed",
+  "renderedPages": 259,
+  "originalParameters": 571,
+  "supplementalControls": 52,
+  "totalDetailedSections": 623,
+  "maxURLDepth": 4,
+  "origin": "https://example.github.io/easywebinar-product-docs",
+  "basePath": "/easywebinar-product-docs",
+  "uniqueTitles": 259,
+  "uniqueMetaDescriptions": 259,
+  "validatedSchemaGraphs": 259,
+  "checks": [
+    "Every route exported",
+    "Every four-part explanation present in HTML without JavaScript",
+    "All internal links and parameter anchors resolve",
+    "Unique titles and descriptions match metadata CSV source",
+    "Every JSON-LD graph matches the schema export, page URL and breadcrumbs",
+    "Canonical URLs and noindex metadata on every page",
+    "CSV rows, search index and sitemap agree with source",
+    "Beta robots policy retained",
+    "259 page decisions and all 623 parameter migration targets covered"
+  ]
+}
