@@ -1,0 +1,4 @@
+:HL["/easywebinar-product-docs/_next/static/css/5e5b8d4c7ade310b.css","style"]
+:HL["/easywebinar-product-docs/easywebinar-logo-black.svg","image"]
+:HL["/easywebinar-product-docs/easywebinar-logo-white.svg","image"]
+0:{"tree":{"name":"","param":null,"prefetchHints":4112,"slots":{"children":{"name":"slug","param":{"type":"oc","key":"products/webinar-platform/limitations","siblings":["_not-found","_global-error"]},"prefetchHints":4160,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}},"staleTime":300,"buildId":"JvfotR73Qzmq0gKIiyRZn"}

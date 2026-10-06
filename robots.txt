@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: /
+# Internal beta. Enable public indexing after claim approval and production-domain rollout.
